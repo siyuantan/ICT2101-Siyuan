@@ -1,2 +1,4 @@
-# ICT2101-Siyuan
-ICT2101 HELLO WORLD
+# ICT2101
+This is a repo for ICT2101
+
+This is to activate automatic build. 
